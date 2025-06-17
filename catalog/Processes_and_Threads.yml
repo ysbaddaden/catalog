@@ -11,3 +11,5 @@ shards:
   description: A modern command line job processor that can execute jobs concurrently
 - github: crystal-loot/nox
   description: Procfile-based process manager
+- github: ysbaddaden/sync
+  description: Synchronization primitives for safe concurrency & parallelism
